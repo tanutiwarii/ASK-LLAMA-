@@ -288,7 +288,3 @@ If you encounter any issues or have questions:
 2. Review the project documentation
 3. Open an issue on GitHub
 4. Check the project wiki for additional resources
-
----
-
-**Made with ❤️ for the AI community** 
