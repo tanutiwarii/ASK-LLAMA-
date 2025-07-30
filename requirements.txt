@@ -1,0 +1,30 @@
+# Core Framework Dependencies
+langchain
+python-dotenv
+streamlit
+streamlit_chat
+openai
+duckduckgo_search
+langchain-experimental
+langchain-openai
+langchain-community
+
+# Document Processing
+PyPDF2
+chromadb
+sentence-transformers
+
+# GitHub Integration
+PyGithub
+gitpython
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# Voice Processing
+SpeechRecognition
+# Note: pyaudio may require system-level installation
+# For macOS: brew install portaudio
+# For Ubuntu/Debian: sudo apt-get install portaudio19-dev python3-pyaudio
+# For Windows: pip install pyaudio (may require wheel file)
