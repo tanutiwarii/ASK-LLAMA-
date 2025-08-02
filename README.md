@@ -49,12 +49,12 @@ Create a `.env` file in the project root:
 ```bash
 # Required: Set one of the following
 GITHUB_TOKEN=your_github_personal_access_token_here
-OPENAI_API_KEY=your_openai_api_key_here
+GITHUB_API_KEY=your_github_api_key_here
 ```
 
 **Note**: 
 - **GITHUB_TOKEN** (Recommended): Provides access to GitHub AI models
-- **OPENAI_API_KEY**: Fallback option for OpenAI models
+- **GITHUB_API_KEY**: Provides Github repo access
 - The app automatically uses GitHub AI if `GITHUB_TOKEN` is available
 
 ### 4. **Run the Application**
